@@ -6,7 +6,7 @@
 #define M_PI 3.142
 
 // Uzywane zmienne: char, string, int, double
-// String jest tablica char
+// String jest tablica char 
 // Funkcje: Menu pozwalajace na wybranie jednej z 3 opcji: 
 // Obliczanie pola elipsy, porownywanie dlugosci slow oraz wylaczenie programu
 
